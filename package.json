@@ -1,0 +1,22 @@
+{
+  "name": "jshw11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "jquery": "^3.0.0",
+    "json": "^9.0.4",
+    "node": "^0.0.0",
+    "package": "^1.0.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
